@@ -16,13 +16,15 @@ AIML Undergraduate • Learning Software Development • Building Projects in Pu
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-- 🎓 BTech student in **Artificial Intelligence & Machine Learning**
-- 🌱 Currently learning **JavaScript, Node.js, React**
-- 🧠 Practicing **DSA fundamentals** consistently
-- 🛠 Building beginner-friendly **projects & experiments**
-- 🤝 Open to **internships, collaborations, and open-source learning**
+- 👩‍🎓 **Name:** Shreya Raut  
+- 🎓 **Education:** BTech (Artificial Intelligence & Machine Learning), 3rd Year  
+- 💻 **Primary Focus:** Software development fundamentals & problem solving  
+- 🧠 **DSA:** Practicing Data Structures & Algorithms in **C++**  
+- 🌐 **Web Development:** Learning **MERN stack**  
+- 🛠 **Work Style:** Building hands-on projects while learning  
+- 🌱 **Current Phase:** Skill-building and consistency-driven growth  
 
 ---
 
@@ -36,18 +38,20 @@ AIML Undergraduate • Learning Software Development • Building Projects in Pu
 
 ## 🎯 Current Focus
 
-- 📌 Strengthening JavaScript foundations  
-- 📌 Backend basics with Node.js  
-- 📌 Solving DSA problems step by step  
-- 📌 Preparing for my **first software internship**
+- 📌 Developing strong fundamentals in **C++ (DSA)**
+- 📌 Exploring full-stack development using **React, Next.js, and Node.js**
+- 📌 Applying concepts through hands-on projects
+- 📌 Learning consistently and documenting progress
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyaraut12&theme=darkhub&no-frame=true&margin-w=10" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nextjs,nodejs,express,mongodb,git,github&theme=dark" />
 </p>
+
+
 
 ---
 
