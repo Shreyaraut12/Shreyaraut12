@@ -29,7 +29,7 @@ AIML Undergraduate • Learning Software Development • Building Projects in Pu
 ## 🧰 Tech Stack (Learning & Using)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ---
