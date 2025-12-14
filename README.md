@@ -1,72 +1,73 @@
-# Hi 👋, I'm Shreya Raut
+<h2 align="center">Hey 👋, I'm Shreya Raut</h2>
+<h4 align="center">Welcome to my GitHub space 🌱</h4>
 
-🎓 AIML Undergraduate | 💻 Aspiring Software Developer | 🌱 Learning in public
+<p align="center">
+🎓 AIML Undergraduate • 💻 Aspiring Software Developer • 📚 Learning in Public
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Shreyaraut12)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](YOUR_INSTAGRAM_URL)
+<p align="center">
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="https://github.com/Shreyaraut12"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram"></a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 BTech student specializing in **Artificial Intelligence & Machine Learning**
+- 🎓 BTech student in **Artificial Intelligence & Machine Learning**
 - 🌱 Currently learning **JavaScript, Node.js, React**
-- 🧠 Improving **DSA fundamentals** step by step
-- 🛠 Building small but consistent **practice & learning projects**
-- 🤝 Open to **internships, collaborations, and open source learning**
+- 🧠 Practicing **DSA fundamentals** consistently
+- 🛠 Building beginner-friendly **projects & experiments**
+- 🤝 Open to **internships, collaborations, and open-source learning**
 
 ---
 
 ## 🧰 Tech Stack (Learning & Using)
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-
-**Web Basics**  
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-red?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,git,github&theme=dark" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 📌 Strengthening **JavaScript fundamentals**
-- 📌 Learning **backend basics with Node.js**
-- 📌 Practicing **DSA consistently**
-- 📌 Building projects to prepare for my **first tech internship**
+- 📌 Strengthening JavaScript foundations  
+- 📌 Backend basics with Node.js  
+- 📌 Solving DSA problems step by step  
+- 📌 Preparing for my **first software internship**
 
 ---
 
 ## 🧩 Side Notes
 
-- 🎯 AIML undergrad with interest in product thinking
-- ✨ Enjoy aesthetics, photography & creative editing
-- 📍 Based in Nagpur, India
-- 🌱 Believer in slow, consistent growth
+- 🎯 AIML undergrad with interest in product thinking  
+- ✨ Enjoy aesthetics, photography & creative editing  
+- 📍 Based in Nagpur, India  
+- 🌱 Believer in slow, consistent growth  
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shreyaraut12&theme=darkhub&no-frame=true&margin-w=15)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyaraut12&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyaraut12&show_icons=true&theme=radical)
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shreyaraut12&show_icons=true&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaraut12&layout=compact&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaraut12&layout=compact&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shreyaraut12&label=Profile%20Views&color=blueviolet&style=flat)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shreyaraut12&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
-✨ *Learning. Building. Improving — one commit at a time.*
+✨ *Learning, building, and improving — one commit at a time.*
