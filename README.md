@@ -31,7 +31,7 @@ AIML Undergraduate • Learning Software Development • Building Projects in Pu
 ## 🧰 Tech Stack (Learning & Using)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nextjs,nodejs,express,mongodb,git,github&theme=dark" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ AIML Undergraduate • Learning Software Development • Building Projects in Pu
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nextjs,nodejs,express,mongodb,git,github&theme=dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyaraut12&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 
