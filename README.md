@@ -43,15 +43,6 @@ AIML Undergraduate • Learning Software Development • Building Projects in Pu
 
 ---
 
-## 🧩 Side Notes
-
-- 🎯 AIML undergrad with interest in product thinking  
-- ✨ Enjoy aesthetics, photography & creative editing  
-- 📍 Based in Nagpur, India  
-- 🌱 Believer in slow, consistent growth  
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
