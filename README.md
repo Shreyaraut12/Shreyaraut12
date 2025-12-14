@@ -1,14 +1,17 @@
-<h2 align="center">Hey 👋, I'm Shreya Raut</h2>
+<h2 align="center">Hi, I'm Shreya Raut 👋</h2>
 <h4 align="center">Welcome to my GitHub space 🌱</h4>
 
 <p align="center">
-🎓 AIML Undergraduate • 💻 Aspiring Software Developer • 📚 Learning in Public
+AIML Undergraduate • Learning Software Development • Building Projects in Public
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-<a href="https://github.com/Shreyaraut12"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram"></a>
+<a href="https://www.linkedin.com/in/shreya-raut12/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+</a>
+<a href="https://github.com/Shreyaraut12">
+<img src="https://img.shields.io/badge/GitHub-black?logo=github">
+</a>
 </p>
 
 ---
